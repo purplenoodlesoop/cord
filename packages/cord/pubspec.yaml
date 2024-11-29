@@ -1,7 +1,7 @@
 name: cord
 description: Serialization & data manipulation for unnamed records
 version: 0.1.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/purplenoodlesoop/cord
 
 environment:
   sdk: ^3.3.0
