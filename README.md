@@ -1,4 +1,3 @@
-```markdown
 # Cord
 
 Cord is a Dart package for serialization and data manipulation of unnamed records. It provides a flexible and efficient way to handle complex data structures.
